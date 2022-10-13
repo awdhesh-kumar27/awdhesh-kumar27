@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Awdhesh Kumar
-- 👀 I’m interested in competitive programming.
-- 🌱 I’m currently learning MERN Stack Developer.
+- 🌱 I’m currently learning Data Structure & Algorithms.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me awdheshkumarab98@gmail.com
 - 
