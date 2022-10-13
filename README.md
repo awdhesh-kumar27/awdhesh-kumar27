@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Awdhesh Kumar
 - 🌱 I’m currently learning Data Structure & Algorithms.
-- 💞️ I’m looking to collaborate on web development.
+- 💞️ I’m looking to collaborate on MERN stack technologies.
 - 📫 How to reach me awdheshkumarab98@gmail.com
 - 
 
